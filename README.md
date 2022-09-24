@@ -8,4 +8,4 @@ It has an extension known as IPYNB full form interactive python .
 
 This for the beginners as well as the established developers and newly people who are currently working in a different field and want to learn programing.
 
-This is the half course of python and it would be veryhelpful too all of you .
+This is the half course of python and it would be very helpful for all of you .
